@@ -1,0 +1,6 @@
+*.pyc
+*.tgz
+*.gz
+*.DS_Store
+*.code-workspace
+DONOTREADME.md
